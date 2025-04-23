@@ -1,5 +1,3 @@
-**Node.js + Razorpay Payment Gateway Demo** project:
-
 
 # 💳 Razorpay Payment Gateway Integration (Node.js)
 
