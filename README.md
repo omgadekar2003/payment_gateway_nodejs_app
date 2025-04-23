@@ -1,10 +1,6 @@
-Sure bro! 🔥 Here's a clean and professional `README.md` file for your **Node.js + Razorpay Payment Gateway Demo** project:
+**Node.js + Razorpay Payment Gateway Demo** project:
 
----
 
-### 📄 `README.md`
-
-markdown
 # 💳 Razorpay Payment Gateway Integration (Node.js)
 
 This project demonstrates how to integrate the Razorpay Payment Gateway with a Node.js backend. It allows users to make test payments using Razorpay's Test Mode.
